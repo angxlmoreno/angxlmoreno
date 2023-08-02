@@ -1,6 +1,6 @@
 ### Howdy, I'm Angel 👋
 
-Coffee enthusiast ☕️ and _procclaimed_ 'self-help guru' that just so happens to code.
+Coffee enthusiast ☕️ and _proclaimed_ 'self-help guru' that just so happens to code.
 
 Currently working on Web Services at [Charles Schwab](https://www.schwab.com/client-home), whilst exploring iOS Development in my spare time.
 
