@@ -4,8 +4,6 @@ Coffee enthusiast ☕️ and _proclaimed_ 'self-help guru' that just so happens 
 
 Currently working on Web Services at [Charles Schwab](https://www.schwab.com/client-home), whilst exploring iOS Development in my spare time.
 
-#### Tools I'm currently working with 🛠
-
 ![](https://img.shields.io/badge/Mobile-Swift-orange)
 ![](https://img.shields.io/badge/Mobile-Flutter-blue)
 ![](https://img.shields.io/badge/Cloud-GCP-green)
