@@ -1,16 +1,28 @@
-### Howdy, I'm Angel 👋
 
-Coffee enthusiast ☕️ and _proclaimed_ 'self-help guru' that just so happens to code.
+- **Backend Software Engineer II** @ [Charles Schwab](https://www.schwab.com/client-home)
+- **iOS Developer** 
 
-Currently working on Web Services at [Charles Schwab](https://www.schwab.com/client-home), whilst exploring iOS Development in my spare time.
+###
 
-![](https://img.shields.io/badge/Mobile-Swift-orange)
-![](https://img.shields.io/badge/Mobile-Flutter-blue)
-![](https://img.shields.io/badge/Cloud-GCP-green)
-![](https://img.shields.io/badge/REST-dotnet-purple)
-![](https://img.shields.io/badge/Database-Aerospike-red)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Aerospike](https://img.shields.io/badge/Aerospike-C21325?style=flat&logo=aerospike&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-405BFF?style=flat&logo=launchdarkly&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+___
 
-#### Favorite Reads
+### Favorite Reads
 
 - [I Will Teach You to Be Rich](https://www.iwillteachyoutoberich.com/books/) by Ramit Sethi
 - [Deep Work](https://calnewport.com/writing/) by Cal Newport
